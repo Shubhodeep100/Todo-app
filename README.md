@@ -1,34 +1,32 @@
 
-# Business Dashboard
+# Todo App
 
-•This is completely responsive dashboard of a business company.
+•Used ReactJs to build the app.
 
-•It shows different statistics of the revenue generated and also calculates a bar graph as per the growth.
+•Has CRUD operation implemented into it.
 
-•It also has different sections to show the details about the customer.
-
-•Deployed using Cloudflare
+•Deployed via Cloudflare pages.
 
 
 ## Demo
 
-https://omoinew-dashboard.pages.dev/
+https://to-doapplication.pages.dev/
 
 
 ## Screenshots
 
-![dashboard](https://github.com/Shubhodeep100/Threads_App/assets/96099026/e07ccd7c-f67d-432c-b5e7-c62c36661ad1)
+![todo](https://github.com/Shubhodeep100/Threads_App/assets/96099026/f5ebde0d-811d-4399-aa83-6abbf46b9050)
 
 
 ## Tech Stack
 
-**Client:** Reactjs, Bootstrap tables, TailwindCSS, Chatjs  
+**Client:** Reactjs, TailwindCSS, npm
 
 
 ## Features
 
-- Fully Responsive Dasboard.
-- Data Visualization.
-- Filtered Data as per month.
-- Professional standard Dashboard UI.
+- Fully Responsive Todo App.
+- Create a Todo.
+- Edit a Todo.
+- Delete a todo.
 
